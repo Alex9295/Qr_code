@@ -22,9 +22,13 @@ python qr_code_generator.py
 
 # Example Inputs:
 1.- Enter the URL (including https:// or http://): https://youtube.com
+
 2.- Enter the version (complexity, 1-40): 15
+
 3.- Enter the box size: 8
+
 4.- Enter the border size: 4
+
 5.- Name it as: youtube
 
 
