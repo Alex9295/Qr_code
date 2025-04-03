@@ -2,13 +2,13 @@
 
 A simple Python script to generate customizable QR codes from URLs or text. Perfect for beginners learning Python or QR code basics!
 
-## Features ✨
+## Features:
 - **Customizable QR Codes**: Adjust version (complexity), box size, and border.
 - **Error Correction**: Built-in error correction (`ERROR_CORRECT_L`).
 - **Save & Preview**: Generates a `.png` file and opens the image automatically.
 - **User-Friendly**: Interactive input prompts guide the user.
 
-## How It Works ⚙️
+## How It Works:
 1. Enter a **URL** (e.g., `https://www.youtube.com).
 2. Set QR code parameters:
    - **Version**: 1 (smallest) to 40 (largest, high complexity).
