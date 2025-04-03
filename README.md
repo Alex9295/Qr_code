@@ -21,11 +21,11 @@ A simple Python script to generate customizable QR codes from URLs or text. Perf
 python qr_code_generator.py
 
 # Example Inputs:
-Enter the URL (including https:// or http://): https://youtube.com
-Enter the version (complexity, 1-40): 15
-Enter the box size: 8
-Enter the border size: 4
-Name it as: youtube
+1.- Enter the URL (including https:// or http://): https://youtube.com
+2.- Enter the version (complexity, 1-40): 15
+3.- Enter the box size: 8
+4.- Enter the border size: 4
+5.- Name it as: youtube
 
 
 
